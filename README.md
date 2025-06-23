@@ -63,19 +63,12 @@
 
 ## 📁 Project Structure
 ├── smoke_fire_detector.ino → Arduino code
+
 ├── circuit_diagram.png → Circuit layout image
+
 ├── README.md → Project documentation
+
 └── images/ → Demo photos / screenshots
-
----
-
-## 📸 Preview
-
-| Normal Condition | Smoke Detected | Fire Detected |
-|------------------|----------------|----------------|
-| ![](images/normal.png) | ![](images/smoke.png) | ![](images/fire.png) |
-
-> Add images inside `images/` folder for display.
 
 ---
 
